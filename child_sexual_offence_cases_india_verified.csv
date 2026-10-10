@@ -1,0 +1,13 @@
+year,geography,offence_category,total_cases_registered,victims_girls,victims_boys,victims_other_gender,cases_solved_chargesheeted,cases_convicted,source,notes
+2020,India (all),POCSO Act - all offences,47221,,,,,,NCRB Crime in India 2021 (via Deccan Herald 30-Aug-2022),
+2020,India (all),POCSO Act Sec 4 & 6 (penetrative sexual assault / rape),28000,,,,,,NCRB Crime in India 2020 (via Factly),Reported only as 'more than 28000'; ~99% of victims were girls
+2021,India (all),POCSO Act - all offences,53874,,,,,,NCRB Crime in India 2021 (via Deccan Herald 30-Aug-2022),
+2022,India (all),POCSO Act - all offences,63414,,,,,,NCRB Crime in India 2022 (via NewsClick),
+2021,Uttar Pradesh,POCSO Act - all offences,7129,,,,,,NCRB Crime in India 2021 (via Deccan Herald),
+2021,Maharashtra,POCSO Act - all offences,6200,,,,,,NCRB Crime in India 2021 (via Deccan Herald),
+2021,Madhya Pradesh,POCSO Act - all offences,6070,,,,,,NCRB Crime in India 2021 (via Deccan Herald),
+2021,Tamil Nadu,POCSO Act - all offences,4465,,,,,,NCRB Crime in India 2021 (via Deccan Herald),
+2021,Karnataka,POCSO Act - all offences,2813,,,,,,NCRB Crime in India 2021 (via Deccan Herald),
+2022,Uttar Pradesh,POCSO Act - all offences,8136,,,,,,NCRB Crime in India 2022 (via NewsClick),
+2023,Karnataka,POCSO Act - all offences,3878,,,,,,NCRB Crime in India 2023 (via Deccan Herald),
+2020,India (all),Girls' share of POCSO victims 2017-2020,,,,,,,NCRB (via Factly),Girls 97.1%-97.6% of POCSO victims; boys 2.3%-2.8% (percentages not counts)
